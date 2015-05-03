@@ -8,7 +8,7 @@
 (function($){
     $.fn.jCopy = function() {
       return this.each(function(){
-          
+          //Searching....!!
       });
     };
 }(jQuery));
